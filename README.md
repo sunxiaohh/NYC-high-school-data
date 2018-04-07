@@ -1,1 +1,1 @@
-# NYC-high-school-data
+# data-exploration
